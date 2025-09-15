@@ -16,3 +16,5 @@
 # Push method (using Pushgateway) 📤
 
 # Your app itself sends (pushes) metrics to Prometheus (through Pushgateway) instead of waiting to be asked.
+
+# namespace is there to give isolation between main production app monitoring and visualization
