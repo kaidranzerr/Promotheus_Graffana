@@ -4,6 +4,7 @@
  
 # prometheus --> monitor applications || monitor systems  || collects data even query
 # graffana --> data visualization 
+# usually graphs are present on prometheus but we do dashboarding on graffana
 
 # most of the prometheus exporters are linux based but for windows --> wmi
 
